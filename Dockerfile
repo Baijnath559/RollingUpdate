@@ -1,3 +1,3 @@
-FROM baijnath559/apache-webserver-php:st21
+FROM vimal13/apache-webserver-php
 RUN echo "This is new image for mywebjenkins  "> /var/www/html/index.php 
 
